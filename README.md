@@ -1,6 +1,6 @@
 # AluraPlay
 
-O projeto AluraPlay é uma plataforma de vídeos que apresenta um layout moderno, responsivo e repleto de elementos visuais. Foi desenvolvido utilizando HTML e CSS, aproveitando a propriedade Flexbox para criar interfaces flexíveis e adaptáveis a diferentes tamanhos de tela.
+O projeto AluraPlay é uma plataforma de vídeos que apresenta um layout responsivo. Foi desenvolvido utilizando HTML e CSS, aproveitando a propriedade Flexbox para criar interfaces flexíveis e adaptáveis a diferentes tamanhos de tela.
 
 |:placard: Vitrine.Dev |                                      | 
 | -------------------- | -------------------------------------|
@@ -22,9 +22,8 @@ O projeto AluraPlay é uma plataforma de vídeos que apresenta um layout moderno
 
 ## Características Principais
 
-* Layout moderno e atraente: O AluraPlay conta com um design contemporâneo e visualmente agradável, proporcionando uma experiência atraente para os usuários.
 * Responsividade: Através da utilização da propriedade Flexbox do CSS, as interfaces do AluraPlay são capazes de se ajustar e adaptar a diferentes tamanhos de tela, desde dispositivos móveis, tablets e desktops.
-* Riqueza de elementos: O projeto conta com uma variedade de elementos visuais cuidadosamente elaborados, como menus intuitivos, ícones bem posicionados e componentes estruturados. Destaca-se também a barra de rolagem presente no menu lateral e superior. Ao passar o mouse sobre um vídeo, ele aumenta de tamanho, recebendo destaque.
+* Riqueza de elementos: O projeto conta com uma variedade de elementos visuais, como menus intuitivos, ícones bem posicionados e componentes estruturados. Destaca-se também a barra de rolagem presente no menu lateral e superior. Ao passar o mouse sobre um vídeo, ele aumenta de tamanho, recebendo destaque.
 
 ## Feito por:
 
